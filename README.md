@@ -1,16 +1,15 @@
-### Hi there 👋
+### Phúc Store
 
-<!--
-**phucstorevn/phucstorevn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Phúc Store - Chuyên Sỉ Giày Sneakers với những thương hiệu nổi tiếng hiện nay. Đến với Phúc Store bạn sẽ thoái mái lựa chọn phong cách phù hợp với chính mình.
 
-Here are some ideas to get you started:
+- Địa chỉ: Số 5, Đường Nguyễn Trãi, phường Liên Bảo, thành phố Vĩnh Yên, tỉnh Vĩnh Phúc
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SĐT: 02113616618
+
+- Website: https://phucstore.vn/
+
+https://twitter.com/phucstorevn
+
+https://www.pinterest.com/phucstorevn/
+
+https://www.linkedin.com/in/phucstorevn/
